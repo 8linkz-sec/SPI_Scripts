@@ -2,6 +2,10 @@
 
 Command-line tool for querying all [ReversingLabs Spectra Intelligence](https://www.reversinglabs.com/products/spectra-intelligence) APIs. Supports 20 API endpoints covering file reputation, malware hunting, network threat intelligence, and more.
 
+## Disclaimer
+
+**This project was vibecoded and created solely for personal testing purposes.** It is not recommended to use this tool in a production environment.
+
 ## Setup
 
 ### 1. Install dependencies
